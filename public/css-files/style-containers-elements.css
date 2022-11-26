@@ -1,0 +1,24 @@
+.container
+{
+    width: 100%;
+    text-align: center;
+    height: 80%;
+}
+
+.hosting-plans
+{
+    display: flex;
+    justify-content: space-around;
+    height: 70%;
+}
+
+.plan-table
+{
+    width: 26%;
+    height: 100%;
+}
+
+.plan-principles
+{
+    border: 1px green solid
+}
