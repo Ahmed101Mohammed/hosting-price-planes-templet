@@ -17,3 +17,9 @@ body
     justify-content: center;
     align-items: center;
 }
+
+del
+{
+    display: block;
+    color: red;
+}
