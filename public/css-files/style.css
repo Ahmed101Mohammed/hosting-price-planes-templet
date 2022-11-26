@@ -11,6 +11,21 @@
     font-family: sans-serif;
     text-transform: capitalize;
     color: blueviolet;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: 77px;
+}
+
+.container > .title::after
+{
+    content: "";
+    position: absolute;
+    width: 110px;
+    background-color: #f906ff;
+    bottom: 0px;
+    margin-top: 10px;
+    height: 5px;
 }
 
 .hosting-plans
