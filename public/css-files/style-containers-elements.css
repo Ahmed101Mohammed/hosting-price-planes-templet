@@ -18,7 +18,9 @@
     height: 100%;
 }
 
-.plan-principles
+.plan-table:hover
 {
-    border: 1px green solid
+    cursor: pointer;
+    background-color: #f6f5ff;
+    color:#0053ff
 }
