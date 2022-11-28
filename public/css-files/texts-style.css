@@ -52,10 +52,10 @@
 {
     border: 1px gray solid;
     border-radius: 50%;
-    height: 100px;
-    width: 100px;
+    height: 130px;
+    width: 130px;
     margin: 7px auto;
-    font-size: 30px;
+    font-size: 39px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,6 +68,7 @@
     justify-content: space-between;
     margin-bottom: 5px;
     padding: 1px;
+    color: black;
 
 }
 
